@@ -18,3 +18,5 @@ Classification Projects include:
 1. Least Squares
 2. Predictive Distribution
 3. Gaussian Processes
+
+** Might update with more algos in the future :D **
