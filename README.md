@@ -1,4 +1,4 @@
-# Regression-and-Classification-Algorithms-from-scratch
+# Machine Learning Algorithms from Scratch
 Had some fun coding some known classification and regression models from scratch.
 Included some explanation to illustrate functionalities of each, and experiemented with different variables to illustrate characteristics
 
